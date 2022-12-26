@@ -132,7 +132,4 @@ dmypy.json
 .DS_Store
 
 # dataset
-dataset/
-test_imgs/
-train_imgs/
-train_masks/
+img_data/
