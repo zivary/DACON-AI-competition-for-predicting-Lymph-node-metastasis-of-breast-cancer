@@ -61,13 +61,13 @@ $ pip install -r ./code/requirements.txt
 ### Data Preparation
 
 ```text
-code/Data_Preparation.ipynb 실행
+code/Data_Preparation.ipynb
 ```
 
 ### MIL Modeling
 
 ```text
-code/MIL.ipynb 실행
+code/MIL.ipynb
 ```
 
 ---
@@ -75,3 +75,4 @@ code/MIL.ipynb 실행
 ## [참조]
 
 - https://github.com/bupt-ai-cz/BALNMP
+
