@@ -38,10 +38,6 @@
 - Macro F1 Score로 결과를 평가합니다.
 - Early Stopping F1 Score는 0.95로 합니다. 
 
-## [참조]
-
-- https://github.com/bupt-ai-cz/BALNMP
-
 ---
 
 ## [Setup]
@@ -73,3 +69,9 @@ code/Data Preparation.ipynb 실행
 ```text
 code/MIL.ipynb 실행
 ```
+
+---
+
+## [참조]
+
+- https://github.com/bupt-ai-cz/BALNMP
