@@ -61,7 +61,7 @@ $ pip install -r ./code/requirements.txt
 ### Data Preparation
 
 ```text
-code/Data Preparation.ipynb 실행
+code/Data_Preparation.ipynb 실행
 ```
 
 ### MIL Modeling
