@@ -132,4 +132,7 @@ dmypy.json
 .DS_Store
 
 # dataset
-img_data/
+dataset/
+
+#result
+result/
