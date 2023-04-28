@@ -68,7 +68,7 @@
 ### Clone this repo
 
 ```bash
-$ git clone https://github.com/zivary/DACON_AI_competition_for_predicting_Lymph_node_metastasis_of_breast_cancer.git
+$ git clone https://github.com/zivary/DACON-AI-competition-for-predicting-Lymph-node-metastasis-of-breast-cancer.git
 ```
 
 ### Environment
